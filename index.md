@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Andrew Butcher
+title: Home
 tagline: This is a web page!
 ---
 {% include JB/setup %}
