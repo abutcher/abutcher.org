@@ -5,6 +5,7 @@ tagline: abutcher@redhat.com
 ---
 {% include JB/setup %}
 
+
 ## Contact
 - AIM: [archnemesivii](aim:goim?screenname=archnemesivii)
 - IRC: [freenode.net](irc://chat.freenode.net)
