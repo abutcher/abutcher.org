@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Home
-tagline: abutcher@redhat.com
+tagline:
 ---
 {% include JB/setup %}
-
 
 ## Contact
 - AIM: [archnemesivii](aim:goim?screenname=archnemesivii)

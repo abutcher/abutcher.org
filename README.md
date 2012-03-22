@@ -1,6 +1,6 @@
-# A github page for me.
+# abutcher.org
 
-Made with [Jekyll-Bootstrap](http://jekyllbootstrap.com).
+My personal site made with [Jekyll-Bootstrap](http://jekyllbootstrap.com). If cloning my repo please delete everything pertinent to me and my posts/information.
 
 
 ## License
