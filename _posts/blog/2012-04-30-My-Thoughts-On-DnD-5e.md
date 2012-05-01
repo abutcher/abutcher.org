@@ -53,22 +53,26 @@ I was on the edge of my seat watching the panel, waiting for someone
 to start the SRD/OGL conversation. It was brought up, which was
 awesome, but Mike kind of shrugged it off by saying, "We can't really
 talk about that...". I really wish they would think about this. I'm
-still buying 3.0 and 3.5 edition materials published under the Sword
-and Sorcery umbrella and they're easily made relevant to systems like
-Pathfinder but would require a lot of extra effort to make 4th edition
-friendly.
+still buying 3.0 and 3.5 edition materials
+[\[6\]](http://scarn.wikia.com/wiki/Hollowfaust:_City_of_Necromancers)
+published under the Sword and Sorcery umbrella and they're easily made
+relevant to systems like Pathfinder but would require a lot of extra
+effort to make 4th edition friendly.
 
-\[1\] The Future of D&D Panel at PAX East - 2012
+[\[1\]](http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y) The Future of D&D Panel at PAX East - 2012
     Mike Mearls & Jeremy Crawford
 
-\[2\] Fighter Design Goals
+[\[2\]](http://wizards.com/dnd/Article.aspx?x=dnd/4ll/20120430)  Fighter Design Goals
     Mike Mearls
 
-\[3\] Revised 3.5 System Reference Document
+[\[3\]](http://www.wizards.com/default.asp?x=d20/article/srd35) Revised 3.5 System Reference Document
     Wizards of the Coast
 
-\[4\] Open Game License
+[\[4\]](http://en.wikipedia.org/wiki/Open_Game_License) Open Game License
     Wikipedia
 
-\[5\] The Most Dangerous Column in Gaming
+[[5]](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) The Most Dangerous Column in Gaming
     Ryan Dancey
+
+[\[6\]](http://scarn.wikia.com/wiki/Hollowfaust:_City_of_Necromancers) Hollowfaust: City of Necromancers
+    Scarred Lands Sword and Sorcery Products
