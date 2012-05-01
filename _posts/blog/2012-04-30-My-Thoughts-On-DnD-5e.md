@@ -10,8 +10,8 @@ comments: false
 
 Having not been a huge fan of Dungeons and Dragons 4th Edition, I
 still have a lot of faith in what Mike Mearls and the folks at Wizards
-of the Coast are doing.  From what I've "seen
-[1]":http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y
+of the Coast are doing.  From what I've seen
+[(1)](http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y)
 Dungeons and Dragons 5th Edition sounds like the perfect amalgamation
 of the prior editions (what's not to love about that) but there's a
 few things I'm worried about.
@@ -19,27 +19,29 @@ few things I'm worried about.
 The impetus behind the new edition is creating what Jeremy Crawford,
 WoTC Lead Rules Editor, calls a kernel or a base set of rules which
 all of the minutia can be stacked on top of. Another important aspect
-of the kernel is making the classes more
-"balanced [2]":http://wizards.com/dnd/Article.aspx?x=dnd/4ll/20120430
-(woo!) such that fighters aren't dominated by wizards. WoTC will be
-releasing modules which enhance different elements of the game on top
-of the `kernel` to allow for dungeon masters and players with
-different styles to get the most out of their game.
+of the kernel is making the classes more balanced
+[(2)](http://wizards.com/dnd/Article.aspx?x=dnd/4ll/20120430) (woo!)
+such that fighters aren't dominated by wizards. WoTC will be releasing
+modules which enhance different elements of the game on top of the
+`kernel` to allow for dungeon masters and players with different
+styles to get the most out of their game.
 
-In their PAX East 2012 Panel [1], Mike and Jeremy explain the large
-amount of attention they're giving to the game being playable in all
-of the different campaign settings that everyone has come to love
-throughout the years (Ravenloft, Dragonlance, Greyhawk etc.). I don't
-think this will be too hard to accomplish but I'm glad they're keeping
-these in mind -- not too many groups stick with the core setting.
+In their PAX East 2012 Panel
+[(1)](http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y),
+Mike and Jeremy explain the large amount of attention they're giving
+to the game being playable in all of the different campaign settings
+that everyone has come to love throughout the years (Ravenloft,
+Dragonlance, Greyhawk etc.). I don't think this will be too hard to
+accomplish but I'm glad they're keeping these in mind -- not too many
+groups stick with the core setting.
 
 The main thing I dislike about the current edition is that there's no
-"System Reference Document
-[3]":http://www.wizards.com/default.asp?x=d20/article/srd35 published
-via the "Open Gaming
-License":http://en.wikipedia.org/wiki/Open_Game_License like there was
-for "3.0
-[5]":http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e &
+System Reference Document
+[(3)](http://www.wizards.com/default.asp?x=d20/article/srd35)
+published via the "Open Game License
+[(4)](http://en.wikipedia.org/wiki/Open_Game_License) like there was
+for 3.0
+[(5)](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) &
 3.5. What this means is that WoTC is the only group who can publish
 material which uses their rule set. 4th Edition would be kind of
 difficult to do this with because of the watered down nature of it but
