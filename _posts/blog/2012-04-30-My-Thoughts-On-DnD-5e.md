@@ -41,7 +41,7 @@ System Reference Document
 published via the "Open Game License
 [\[4\]](http://en.wikipedia.org/wiki/Open_Game_License) like there was
 for 3.0
-[[5]](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) &
+[\[5\]](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) &
 3.5. What this means is that WoTC is the only group who can publish
 material which uses their rule set. 4th Edition would be kind of
 difficult to do this with because of the watered down nature of it but
