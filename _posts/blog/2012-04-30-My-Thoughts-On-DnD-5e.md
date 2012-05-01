@@ -23,7 +23,7 @@ of the kernel is making the classes more balanced
 [(2)](http://wizards.com/dnd/Article.aspx?x=dnd/4ll/20120430) (woo!)
 such that fighters aren't dominated by wizards. WoTC will be releasing
 modules which enhance different elements of the game on top of the
-`kernel` to allow for dungeon masters and players with different
+kernel to allow for dungeon masters and players with different
 styles to get the most out of their game.
 
 In their PAX East 2012 Panel
