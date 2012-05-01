@@ -36,7 +36,7 @@ groups stick with the core setting.
 The main thing I dislike about the current edition is that there's no
 System Reference Document
 [\[3\]](http://www.wizards.com/default.asp?x=d20/article/srd35)
-published via the "Open Game License
+published via the Open Game License
 [\[4\]](http://en.wikipedia.org/wiki/Open_Game_License) like there was
 for 3.0
 [\[5\]](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) &
