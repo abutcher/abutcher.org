@@ -11,23 +11,23 @@ comments: false
 Having not been a huge fan of Dungeons and Dragons 4th Edition, I
 still have a lot of faith in what Mike Mearls and the folks at Wizards
 of the Coast are doing.  From what I've seen
-[[1]](http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y)
+[\[1\]](http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y)
 Dungeons and Dragons 5th Edition sounds like the perfect amalgamation
 of the prior editions (what's not to love about that) but there's a
 few things I'm worried about.
 
 The impetus behind the new edition is creating what Jeremy Crawford,
 WoTC Lead Rules Editor, calls a kernel or a base set of rules which
-all of the minutia can be stacked on top of. Another important aspect
+all of the minutiae can be stacked on top of. Another important aspect
 of the kernel is making the classes more balanced
-[[2]](http://wizards.com/dnd/Article.aspx?x=dnd/4ll/20120430) (woo!)
+[\[2\]](http://wizards.com/dnd/Article.aspx?x=dnd/4ll/20120430) (woo!)
 such that fighters aren't dominated by wizards. WoTC will be releasing
 modules which enhance different elements of the game on top of the
-kernel to allow for dungeon masters and players with different
-styles to get the most out of their game.
+kernel to allow for dungeon masters and players with different styles
+to get the most out of their game.
 
 In their PAX East 2012 Panel
-[[1]](http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y),
+[\[1\]](http://www.youtube.com/watch?feature=player_embedded&v=Yoa_xQTya8Y),
 Mike and Jeremy explain the large amount of attention they're giving
 to the game being playable in all of the different campaign settings
 that everyone has come to love throughout the years (Ravenloft,
@@ -37,9 +37,9 @@ groups stick with the core setting.
 
 The main thing I dislike about the current edition is that there's no
 System Reference Document
-[[3]](http://www.wizards.com/default.asp?x=d20/article/srd35)
+[\[3\]](http://www.wizards.com/default.asp?x=d20/article/srd35)
 published via the "Open Game License
-[(4)](http://en.wikipedia.org/wiki/Open_Game_License) like there was
+[\[4\]](http://en.wikipedia.org/wiki/Open_Game_License) like there was
 for 3.0
 [[5]](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) &
 3.5. What this means is that WoTC is the only group who can publish
@@ -58,17 +58,17 @@ and Sorcery umbrella and they're easily made relevant to systems like
 Pathfinder but would require a lot of extra effort to make 4th edition
 friendly.
 
-[1] The Future of D&D Panel at PAX East - 2012
+\[1\] The Future of D&D Panel at PAX East - 2012
     Mike Mearls & Jeremy Crawford
 
-[2] Fighter Design Goals
+\[2\] Fighter Design Goals
     Mike Mearls
 
-[3] Revised 3.5 System Reference Document
+\[3\] Revised 3.5 System Reference Document
     Wizards of the Coast
 
-[4] Open Game License
+\[4\] Open Game License
     Wikipedia
 
-[5] The Most Dangerous Column in Gaming
+\[5\] The Most Dangerous Column in Gaming
     Ryan Dancey
