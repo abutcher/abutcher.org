@@ -6,8 +6,6 @@ comments: false
 ---
 {% include JB/setup %}
 
-##My Thoughts on DnD 5e...
-
 Having not been a huge fan of Dungeons and Dragons 4th Edition, I
 still have a lot of faith in what Mike Mearls and the folks at Wizards
 of the Coast are doing.  From what I've seen
