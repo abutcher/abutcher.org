@@ -69,7 +69,7 @@ effort to make 4th edition friendly.
 [\[4\]](http://en.wikipedia.org/wiki/Open_Game_License) Open Game License
     Wikipedia
 
-[[5]](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) The Most Dangerous Column in Gaming
+[\[5\]](http://www.wizards.com/dnd/article.asp?x=dnd/md/md20020228e) The Most Dangerous Column in Gaming
     Ryan Dancey
 
 [\[6\]](http://scarn.wikia.com/wiki/Hollowfaust:_City_of_Necromancers) Hollowfaust: City of Necromancers
