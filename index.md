@@ -17,6 +17,9 @@ tagline:
 ## Code
 - [github.com/abutcher](http://github.com/abutcher)
 
+## Pub
+- [Local vs. Global Models for Effort Estimation and Defect Prediction](http://menzies.us/pdf/11ase.pdf)
+
 ## WVU Loud
 - [Launchpad](https://launchpad.net/~abutcher)
 
