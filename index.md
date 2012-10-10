@@ -24,6 +24,7 @@ tagline:
 - [Launchpad](https://launchpad.net/~abutcher)
 
 ## Docs
+- [Linux 101 Tutorial](https://docs.google.com/present/view?id=dhmh54m7_55dns6mcdp&pli=1)
 - [Regular Expression Basics](http://peopleareducks.com/docs/regexp-basics/output/regular-expressions.html)
 - [Setting up an OpenGL project using Apple Xcode](http://peopleareducks.com/docs/opengl-in-xcode/)
 - [Your First Debian Package](http://loud.wvuopensource.org/?page_id=41)
