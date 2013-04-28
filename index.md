@@ -18,7 +18,8 @@ tagline:
 - [github.com/abutcher](http://github.com/abutcher)
 
 ## Pub
-- [Local vs. Global Models for Effort Estimation and Defect Prediction](http://menzies.us/pdf/11ase.pdf)
+- [11 ASE - Local vs. Global Models for Effort Estimation and Defect Prediction](http://menzies.us/pdf/11ase.pdf)
+- [12 IEEE TSE - Local vs. Global Lessons for Defect Prediction and Effort Estimation](http://menzies.us/pdf/12localb.pdf)
 
 ## WVU Loud
 - [Launchpad](https://launchpad.net/~abutcher)
